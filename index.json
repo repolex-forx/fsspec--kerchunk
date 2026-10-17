@@ -1,0 +1,11 @@
+{
+  "org": "fsspec",
+  "repo": "kerchunk",
+  "versions": [
+    {
+      "commit": "37e8f9016509d0d2b93fb3fff5549312641311e5",
+      "tag": "",
+      "parsed_at": "2026-10-17T04:18:14.007904+00:00"
+    }
+  ]
+}
