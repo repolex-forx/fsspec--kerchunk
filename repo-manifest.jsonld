@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/fsspec/kerchunk/commit/37e8f9016509d0d2b93fb3fff5549312641311e5",
       "git:hexsha": "37e8f9016509d0d2b93fb3fff5549312641311e5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/fsspec/kerchunk/commit/22865c7f7c0b3747e086ecef1bd7c0f8dff2835a",
